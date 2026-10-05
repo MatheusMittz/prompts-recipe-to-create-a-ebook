@@ -1,0 +1,4 @@
+transcripts_pdf/
+*.py
+*.json
+token_received.txt

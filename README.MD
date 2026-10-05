@@ -31,7 +31,6 @@ O objetivo deste projeto é criar um **eBook digital completo**, unindo o poder 
 
 - 📑 **[Baixar Versão em PDF Diagramada (PDF)](./output/ebook%20-%20typescript%20jedi.pdf)**
 - 📄 **[Ler eBook Diretamente no GitHub (EBOOK.md)](./EBOOK.md)**
-- 🎓 **[Consultar Transcrições das 17 Aulas do Lab (Markdown)](./transcricoes_ebook_chatgpt_midjourney.md)**
 
 ---
 
@@ -87,7 +86,6 @@ A futuristic cybernetic Jedi holocron cube with glowing blue and cyan neon energ
 - [x] eBook completo diagramado e exportado em [PDF de alta qualidade](./output/ebook%20-%20typescript%20jedi.pdf).
 - [x] Versão em Markdown para leitura web em [EBOOK.md](./EBOOK.md).
 - [x] Capa com arte em alta resolução salva em `assets/cover.png`.
-- [x] Transcrições completas das 17 videoaulas do laboratório compiladas em [transcricoes_ebook_chatgpt_midjourney.md](./transcricoes_ebook_chatgpt_midjourney.md).
 - [x] Tabela de prompts documentada detalhando todo o processo criativo.
 
 ---
